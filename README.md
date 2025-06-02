@@ -1,5 +1,4 @@
 <h2 align="center">Inquira </h2>
-# Inquira
 
 Inquira is an AI-powered web app that lets users ask questions about input text using natural language.
 
