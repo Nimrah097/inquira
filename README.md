@@ -45,7 +45,7 @@ Inquira is an AI-powered web app that lets users ask questions about input text 
 **Live Project:**
 
 - GitHub Repo: [Inquira on GitHub](https://github.com/Nimrah097/inquira)  
-- Live Replit App: [Inquira on Replit](https://replit.com/@Nimrah097/inquira)
+- Live Replit App: [Inquira on Replit]([https://replit.com/@Nimrah097/inquira](https://715f9c77-f6c6-4fa3-aafb-147811376a3e-00-11wcwd5xoj0au.sisko.replit.dev/test.html))
 
 ---
 
@@ -59,7 +59,9 @@ npx tsc     # Compile TypeScript
 node dist/index.js
 
 
+---
 
-Created By
+##Created By
+
 Nimrah Fatheen — passionate about combining AI with intuitive UI to build real-world tools.
 
