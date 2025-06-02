@@ -1,4 +1,4 @@
-Inquira
+<h2 align="center">Inquira </h2>
 Inquira is an AI-powered web app that lets users ask questions about input text using natural language. .
 
 Features
@@ -12,6 +12,7 @@ Splash screen on load with redirect logic
 Hosted on Replit + GitHub for easy access
 
 Project Structure:
+
 php
 /
 ├── public/
@@ -57,6 +58,6 @@ node dist/index.js
 Then open public/splash.html in a browser.
 
 
-🙋‍♀Created By
+Created By
 Nimrah Fatheen — passionate about combining AI with intuitive UI to build real-world tools.
 
